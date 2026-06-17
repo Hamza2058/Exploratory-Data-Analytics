@@ -134,7 +134,7 @@ All contributions should focus on **learning value, clarity, and correctness**.
 
 ## 👤 Author
 **Hamza Awan**  
-Aspiring Data Analyst  
+Data Analyst  
 Focused on Python, Exploratory Data Analysis, and Business Intelligence
 
 ---
